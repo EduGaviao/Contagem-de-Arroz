@@ -1,9 +1,14 @@
- Contagem-de-Arroz
+ # Contagem-de-Arroz
+ 
+Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionada no Universidade Tecnológica Federal do Paraná - UTFPR campus Toledo no período letivo de 2021/2.
 
- Autor: Eduarda Simonis Gavião e Willian Rodrigo Huber
+## Integrantes 
+| Nome | RA |
+|--|--|
+|Eduarda Simonis Gavião | 1879472 |
+|Willian Rodrigo Huber | 1992910 |
  
- Universidade Tecnológica Federal do Paraná
- 
- Engenharia de Computação
- 
- Trabalho desenvolvido para a disciplina de Processamento digital de imagens.
+ ## Procedimento para clonar o repositório
+```
+git clone https://github.com/DuGayviao/Contagem-de-Arroz.git
+```
